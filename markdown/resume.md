@@ -12,13 +12,13 @@ Jul 2020 - Jan 2022
 
     - Helped save $10 million yearly on infrastructure costs by rebuilding an acquired hedgefund's application to be compliant with JPMorgan's standards [React, Redux].
     - Built a client transaction system that has processed over $3 billion dollars, saved 20 minutes per transaction, and completely eliminated email processes [React, Java, SpringBoot]
+    - Contributed enhancements to components for the organizational wide design system [React].
     - Developed supporting APIs for a client facing upstream system that has processed hundreds of millions of dollars [Java, Springboot].
     - Replaced portfolio manager's spreadsheets with easily configurable dashboards. [React]
     - Provisioned AWS EKS ![eks-logo](https://www.densify.com/wp-content/uploads/icon-aws-amazon-eks.svg) infrastructure with `Terraform` ![digitalocean](../markdown/terraform.svg)
-    - Worked in a lean team with responsibilities such as scrum master/UX designer [Figma].
+    - Worked on a lean team with responsibilities such as scrum master/UX designer [Figma].
     - Hosted cultural events such as a leadership "Hot Ones" interview, summer olympics, and a series of global networking events.
-    - Mentored 3 summer interns by regularly meeting with them and helping them set goals.
-    - Worked with the engineering recruiting team to assess diverse talent's applications.
+    - Worked with the university engineering recruiting team to assess and interview talent.
 
 
 Jan 2020 - Jun 2020
@@ -36,10 +36,10 @@ Projects
 [Interactive Ski Maps](https://www.interactive-ski-maps.com/)
 :   Application to easily view a mountain report and what ski trails are open [Mountain Creek NJ]
 
-    * Utilized Digital Ocean's ![digitalocean](../markdown/digitalocean.png) S3, Lambda, and App Spaces infrastructure
-    * Employed GO to scrape a daily mountain report and then upload JSON to S3. 
+    * Utilized Digital Ocean's ![digitalocean](../markdown/digitalocean.png) S3, Lambda, and App Spaces infrastructure.
+    * Employed GO to scrape a daily mountain report and then uploaded JSON to S3. 
     * Consumed JSON from S3 and then visually indicate which trails are open on the map.
-    * Handle resizing and orientation changes while maintaining aspect ratio for desktop and mobile.
+    * Handled resizing and orientation changes and maintained aspect ratio for desktop and mobile.
     * Tracked the mouse to determine its intersection of non transparent pixels on overlaying trails.
 
 [Life Skills Software](https://lifeskills.software/)
@@ -67,11 +67,11 @@ Programming
 :  javascript, typescript, java, go, html/css, python, c/c++, sql
 
 Framework/Libraries
-:  react, redux, react testing library, cypress, jest, spring boot, cucumber, vue, enzyme, , express, node
+:  react, redux, react testing library, cypress, jest, spring boot, cucumber, vue, enzyme, express, node
 
 Software/Tools
 :  aws, eks, docker, linux, jenkins, digital ocean, gitlab, confluence, jira, docusign
 
 ----
 
-> seanhill2016@gmail.com • [Github](https://github.com/seanwhill) • [LinkedIn](https://www.linkedin.com/in/sean-hill-2020/)
+> seanhill2016@gmail.com • 856-313-0019 • [Github](https://github.com/seanwhill) • [LinkedIn](https://www.linkedin.com/in/sean-hill-2020/)
